@@ -8,7 +8,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  font-size: 1em;
+  font-size: 1.2em;
 }
 h1 {
   text-transform: uppercase;
@@ -51,6 +51,9 @@ footer {
   margin-bottom: 20px;
   border-bottom: 1px solid gray;
   border-top: 1px solid gray;
+}
+#background-white {
+  margin-top: 10px;
 }
 #right-side {
   background: #034257;
@@ -107,7 +110,7 @@ footer {
   color: white;
 }
 .info i {
-  color: #034257;
+  color: #cddade;
 }
 .skill {
   max-width: 200px;
